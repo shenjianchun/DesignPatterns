@@ -1,4 +1,4 @@
-package com.github.pattern.Singleton;
+package com.github.pattern.singleton;
 
 /**
  * 使用静态内部类单例模式

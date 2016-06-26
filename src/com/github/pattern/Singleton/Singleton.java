@@ -1,4 +1,4 @@
-package com.github.pattern.Singleton;
+package com.github.pattern.singleton;
 
 /**
  * 使用Double Check Lock 实现单例模式
