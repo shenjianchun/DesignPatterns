@@ -1,4 +1,4 @@
-package com.github.pattern.Iterator;
+package com.github.pattern.responsibility;
 
 /**
  * 抽象领导者

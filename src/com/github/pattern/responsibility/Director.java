@@ -1,4 +1,4 @@
-package com.github.pattern.Iterator;
+package com.github.pattern.responsibility;
 
 /**
  * Created by JC on 2016-07-02.
