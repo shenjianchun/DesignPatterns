@@ -1,4 +1,4 @@
-package com.github.pattern.Observer;
+package com.github.pattern.observer;
 
 /**
  * 测试代码

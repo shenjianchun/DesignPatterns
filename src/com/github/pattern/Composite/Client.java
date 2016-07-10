@@ -1,4 +1,4 @@
-package com.github.pattern.Composite;
+package com.github.pattern.composite;
 
 /**
  * 客户类

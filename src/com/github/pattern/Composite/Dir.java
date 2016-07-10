@@ -1,4 +1,4 @@
-package com.github.pattern.Composite;
+package com.github.pattern.composite;
 
 import java.util.ArrayList;
 import java.util.List;

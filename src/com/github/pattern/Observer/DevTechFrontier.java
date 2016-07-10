@@ -1,4 +1,4 @@
-package com.github.pattern.Observer;
+package com.github.pattern.observer;
 
 import java.util.Observable;
 
